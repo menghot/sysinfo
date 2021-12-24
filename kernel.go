@@ -6,8 +6,6 @@ package sysinfo
 
 import (
 	"strings"
-	"syscall"
-	"unsafe"
 )
 
 // Kernel information.
