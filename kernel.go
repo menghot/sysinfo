@@ -19,7 +19,7 @@ func (si *SysInfo) getKernelInfo() {
 
 	//var uname syscall.Utsname
 	//if err := syscall.Uname(&uname); err != nil {
-		return
+	//	return
 	//}
 
 	//si.Kernel.Architecture = strings.TrimRight(string((*[65]byte)(unsafe.Pointer(&uname.Machine))[:]), "\000")
