@@ -4,9 +4,7 @@
 
 package sysinfo
 
-import (
-	"strings"
-)
+
 
 // Kernel information.
 type Kernel struct {
